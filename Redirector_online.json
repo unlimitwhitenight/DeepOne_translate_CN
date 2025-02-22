@@ -17,7 +17,8 @@
             "grouped": false,
             "appliesTo": [
                 "main_frame",
-                "xmlhttprequest"
+                "xmlhttprequest",
+                "script"
             ]
         },
         {
@@ -35,7 +36,8 @@
             "grouped": false,
             "appliesTo": [
                 "main_frame",
-                "xmlhttprequest"
+                "xmlhttprequest",
+                "script"
             ]
         }
     ]
